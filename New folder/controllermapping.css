@@ -1,3 +1,5 @@
+/*BEGIN THRUSTMASTER eSWAP Controller Styling*/
+
 .controller.custom{
     background: url(basemod.png); 
     height: 889px;
@@ -210,3 +212,4 @@ opacity: 0;
 
     background: url(touchpad.png);
     background-repeat:no-repeat; 
+/*END THRUSTMASTER eSWAP Controller Styling*/
